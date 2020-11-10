@@ -1,13 +1,13 @@
 ### Hi there, I'm Mohit - aka [MohitSingh][website] 👋
 
-[![Website](https://img.shields.io/website?label=MohitSingh.com&style=for-the-badge&url=https%3A%2F%2FMohitsingh)](https://mohitsingh2007.netlify.app/)
+[![Website](https://img.shields.io/website?label=MohitSingh&style=for-the-badge&url=https%3A%2F%2FMohitsingh)](https://linktr.ee/mohit_singh1922)
 
 ## I'm a Son, Brother, Developer, and a good Friend!!
 
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Learn Japanese and play Football / BasketBall
+- ⚡ Fun fact: I love to Learning Japanese and play Football / BasketBall
 
 ### Spotify Playing 🎧
 
@@ -15,8 +15,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mohitsingh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Mohit Singh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -48,5 +48,5 @@
 
 </details>
 
-[website]: https://mohitsingh2007.netlify.app/
+[website]: https://linktr.ee/mohit_singh1922
 [instagram]: https://instagram.com/mohit_singh1922
