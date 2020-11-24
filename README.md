@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Learning Japanese and play Football / BasketBall
+- ⚡ Fun fact: I love to Learn Japanese and play Football / BasketBall
 
 ### Spotify Playing 🎧
 
