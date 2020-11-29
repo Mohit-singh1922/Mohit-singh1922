@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-mohit.vercel.app/api/spotify-playing" alt=" mohit singhSpotify Playing" width="350" />](https://open.spotify.com/user/https://open.spotify.com/user/3x37clnem8gu2nogpcmkj0lcb)
 
 ### Connect with me:
 
