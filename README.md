@@ -9,7 +9,7 @@
 
 - 👯 My Latest Project [Portfolio Website](https://github.com/Mohit-singh1922/Personal-Website)
 
-- 🤝 ⚡ Fun fact **I love to Learn Japanese and play Football / BasketBall**
+- ⚡ Fun fact **I love to Learn Japanese and play Football / BasketBall**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohit-singh1922](https://github.com/Mohit-singh1922)
 
